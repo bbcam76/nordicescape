@@ -1,0 +1,29 @@
+{
+  "name": "nordicescape",
+  "version": "1.0.0",
+  "description": "A Next.js application for showcasing deals and blog posts.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "deals",
+    "blog"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "supabase-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  }
+}
